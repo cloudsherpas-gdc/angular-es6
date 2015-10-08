@@ -1,1 +1,4 @@
-console.log("This is a Webpack + Babel Boilerplate!")
+import angular from 'angular'
+import './MainModule'
+
+angular.bootstrap(document, ['MainModule'])

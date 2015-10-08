@@ -1,4 +1,5 @@
-# Webpack + Babel Boilerplate
+# Angular 1.x ES6 Sample
+Uses Webpack + Babel Boilerplate
 
 ## Dependencies
 
@@ -6,11 +7,7 @@
 
 ## Usage
 
-Inside the repo folder, do `git archive master | tar -x -C project_path`
-
-And then cd to `project_path` and do
-
-`npm install babel-core babel-eslint babel-loader eslint express rimraf webpack webpack-dev-middleware webpack-hot-middleware --save-dev`
+`npm install`
 
 Development `npm start`
 
